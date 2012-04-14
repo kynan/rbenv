@@ -1,0 +1,12 @@
+[submodule "plugins/rbenv-vars"]
+	path = plugins/rbenv-vars
+	url = git://github.com/sstephenson/rbenv-vars.git
+[submodule "plugins/rbenv-gemset"]
+	path = plugins/rbenv-gemset
+	url = git://github.com/jamis/rbenv-gemset.git
+[submodule "plugins/ruby-build"]
+	path = plugins/ruby-build
+	url = git://github.com/sstephenson/ruby-build.git
+[submodule "plugins/rbenv-bundler"]
+	path = plugins/rbenv-bundler
+	url = git://github.com/carsomyr/rbenv-bundler.git
